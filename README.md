@@ -2,7 +2,7 @@
 
 ## What is this?
 
-I put together a couple of shell scripts to automate the scraping of game information (including preview videos!) for use iwth the EmulationStation in Project ERIS. This was mainly done because the internal scraper did not work for me.
+I put together a couple of shell scripts to automate the scraping of game information (including preview videos!) for use with the EmulationStation in Project ERIS. This was mainly done because the internal scraper did not work for me.
 
 The scripts use the excellent [SkyScraper](https://github.com/muldjord/skyscraper) as a backbone for doing their magic.
 
